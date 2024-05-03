@@ -1,9 +1,9 @@
-ee2803b6ca907fe760d373f6c00711c8 *DESCRIPTION
+7164c40569fee53a1df158dfb9db5af4 *DESCRIPTION
 734a8ff8bd2137baddbdf03dd5a7e964 *NAMESPACE
-aff57b105b32a6f64fba1d80571c0bd1 *R/LoadSpatial.R
+13eef6b530da8d990b485894edd1f5ca *R/LoadSpatial.R
 858e5d692da4181d5e2ce9b5c3ca47ef *R/SpFilter.R
 f95dd46ff5cf033e292535f286e8127d *R/scBSP.R
-852696ff54f340a378bad51fa71626c2 *inst/doc/manual.pdf
+89e3efa2690091d6ee3ecb6e3afd1ade *inst/doc/manual.pdf
 72966822437914d10a73c721fd1879b3 *man/LoadSpatial.Rd
 c19deed940662eff4698de27d5adbc0c *man/SpFilter.Rd
 349f65488a76652276a417e8e258d86b *man/scBSP.Rd
