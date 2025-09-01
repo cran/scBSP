@@ -1,6 +1,6 @@
 Package: scBSP
-Version: 1.0.0
-Date: 2024-05-02
+Version: 1.1.0
+Date: 2025-09-01
 Title: A Fast Tool for Single-Cell Spatially Variable Genes
         Identifications on Large-Scale Data
 Authors@R: c(
@@ -18,11 +18,11 @@ License: GPL (>= 2)
 Encoding: UTF-8
 Imports: Matrix, sparseMatrixStats, fitdistrplus, RANN, spam
 Suggests: knitr, rmarkdown
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2024-05-03 00:33:48 UTC; lijinp
-Author: Jinpu Li [aut, cre] (<https://orcid.org/0000-0002-6656-2896>),
+Packaged: 2025-09-01 18:25:17 UTC; castl
+Author: Jinpu Li [aut, cre] (ORCID: <https://orcid.org/0000-0002-6656-2896>),
   Yiqing Wang [aut]
 Maintainer: Jinpu Li <castle.lee.f@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-05-03 03:50:02 UTC
+Date/Publication: 2025-09-01 19:30:02 UTC

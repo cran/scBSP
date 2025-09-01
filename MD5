@@ -1,9 +1,12 @@
-7164c40569fee53a1df158dfb9db5af4 *DESCRIPTION
-734a8ff8bd2137baddbdf03dd5a7e964 *NAMESPACE
+3d63b51e2867fd6de1ef1967611f4042 *DESCRIPTION
+992204035df51887700b30fdcb6d05a7 *NAMESPACE
+eac85542cc0c18be6cb569bc236cd024 *R/CombinePvalues.R
 13eef6b530da8d990b485894edd1f5ca *R/LoadSpatial.R
 858e5d692da4181d5e2ce9b5c3ca47ef *R/SpFilter.R
 f95dd46ff5cf033e292535f286e8127d *R/scBSP.R
-89e3efa2690091d6ee3ecb6e3afd1ade *inst/doc/manual.pdf
+12ae2819d08e7deeab4f4eec6f19d8a7 *README.md
+d548a542198351c89b8ec990b7edebd1 *inst/doc/manual.pdf
+9a403b10ebad5d06c6280c68a22ee0ef *man/CombinePvalues.Rd
 72966822437914d10a73c721fd1879b3 *man/LoadSpatial.Rd
 c19deed940662eff4698de27d5adbc0c *man/SpFilter.Rd
 349f65488a76652276a417e8e258d86b *man/scBSP.Rd
